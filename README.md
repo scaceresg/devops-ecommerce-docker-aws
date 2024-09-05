@@ -1,4 +1,4 @@
-# Containerising an E-Commerce Microservice App using Docker in AWS
+# Deploying an E-Commerce Microservice App using Docker in AWS
 
 This project shows how to containerise and deploy an E-Commerce application,
 EMart, which was developed by [devopshydclub](https://github.com/devopshydclub/emartapp) and designed as a **microservice** application.
