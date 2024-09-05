@@ -1,5 +1,8 @@
+# Builder image for nodejs
 FROM node:14 AS web-build
+
 WORKDIR /usr/src/app
+
 COPY ./ ./client
 RUN cd client && npm install && npm run build --prod
 
